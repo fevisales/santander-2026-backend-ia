@@ -16,7 +16,7 @@
 
 <br/>
 
-Bootcamp **Santander 2026 — Back-end com Inteligência Artificial** pela [DIO](https://dio.me).
+Bootcamp **Santander 2026 - Back-end com Inteligência Artificial** pela [DIO](https://dio.me).
 Trilha de ~49 horas cobrindo fundamentos de Java, OOP, boas práticas, Spring Boot e integração com IA.
 Este repositório documenta os projetos práticos construídos ao longo da trilha.
 
@@ -24,7 +24,7 @@ Este repositório documenta os projetos práticos construídos ao longo da trilh
 
 ## O que você encontra aqui
 
-Este repositório **não é um caderno de exercícios**. Ele reúne apenas os entregáveis com decisões técnicas reais — projetos e desafios onde há produto, não só prática mecânica.
+Este repositório **não é um caderno de exercícios**. Ele reúne apenas os entregáveis com decisões técnicas reais - projetos e desafios onde há produto, não só prática mecânica.
 
 | Entregável | Tipo | Módulo |
 |---|---|---|
@@ -39,13 +39,13 @@ Este repositório **não é um caderno de exercícios**. Ele reúne apenas os en
 ```
 santander-2026-backend-ia/
 │
-├── oo-challenge/               # Code Challenge — OOP na prática
+├── oo-challenge/               # Code Challenge - OOP na prática
 │   └── src/
 │
-├── design-patterns-lab/        # Lab Project — GoF ao Spring
+├── design-patterns-lab/        # Lab Project - GoF ao Spring
 │   └── src/
 │
-├── voice-api-lab/              # Lab Project — API com reconhecimento de fala (projeto final)
+├── voice-api-lab/              # Lab Project - API com reconhecimento de fala (projeto final)
 │   └── src/
 │
 └── README.md
@@ -57,7 +57,7 @@ santander-2026-backend-ia/
 
 **Módulo:** Programando o Mundo Real com Orientação a Objetos no Java
 
-Desafio prático de OOP aplicando os quatro pilares em um contexto real: abstração, encapsulamento, herança e polimorfismo. A diferença de um Code Challenge para um exercício comum é que o enunciado entrega um problema, não um roteiro — a solução de modelagem é decisão do desenvolvedor.
+Desafio prático de OOP aplicando os quatro pilares em um contexto real: abstração, encapsulamento, herança e polimorfismo. A diferença de um Code Challenge para um exercício comum é que o enunciado entrega um problema, não um roteiro - a solução de modelagem é decisão do desenvolvedor.
 
 **Conceitos aplicados:**
 - Modelagem de classes e responsabilidades
@@ -71,7 +71,7 @@ Desafio prático de OOP aplicando os quatro pilares em um contexto real: abstra�
 
 **Módulo:** Boas Práticas, Padrões e Dados no Java
 
-Implementação dos padrões clássicos do GoF (Gang of Four) conectando à realidade do Spring Framework — onde muitos desses padrões já existem como abstrações nativas do framework.
+Implementação dos padrões clássicos do GoF (Gang of Four) conectando à realidade do Spring Framework - onde muitos desses padrões já existem como abstrações nativas do framework.
 
 **Padrões explorados:**
 - Criacionais (Singleton, Builder, Factory)
@@ -85,7 +85,7 @@ Implementação dos padrões clássicos do GoF (Gang of Four) conectando à real
 
 **Módulo:** Potencializando Sua Produtividade com Spring Boot · Advanced
 
-Projeto principal da trilha. API REST construída com Spring Boot que integra reconhecimento de voz via **OpenAI Whisper**, processa o áudio transcrito e retorna respostas inteligentes — funcionando como um assistente de voz com back-end em Java.
+Projeto principal da trilha. API REST construída com Spring Boot que integra reconhecimento de voz via **OpenAI Whisper**, processa o áudio transcrito e retorna respostas inteligentes - funcionando como um assistente de voz com back-end em Java.
 
 **Stack utilizada:**
 - Java 21 + Spring Boot
@@ -108,7 +108,7 @@ Projeto principal da trilha. API REST construída com Spring Boot que integra re
 
 Cada pasta de projeto tem seu próprio `README.md` com contexto, decisões técnicas e como rodar localmente. Se você está aqui para estudar ou entender as escolhas feitas, comece pelo `README.md` do projeto que te interessa.
 
-Se está avaliando o perfil técnico: o projeto de voz (`voice-api-lab`) é o melhor ponto de entrada — é onde todos os conceitos da trilha convergem.
+Se está avaliando o perfil técnico: o projeto de voz (`voice-api-lab`) é o melhor ponto de entrada - é onde todos os conceitos da trilha convergem.
 
 ---
 
@@ -116,10 +116,10 @@ Se está avaliando o perfil técnico: o projeto de voz (`voice-api-lab`) é o me
 
 O Santander 2026 Back-end com IA é um bootcamp estruturado em quatro módulos:
 
-1. **Programando o Mundo Real com OO** — Classes, Herança, Interfaces, Lambdas, Collections, Exceptions
-2. **Boas Práticas, Padrões e Dados** — Maven/Gradle, Annotations, SOLID, Clean Code, JDBC, Design Patterns
-3. **Spring Boot na Prática** — API REST, Spring Data, Spring Security, OpenFeign
-4. **Projeto Final** — API inteligente com reconhecimento de fala e Spring Boot
+1. **Programando o Mundo Real com OO** - Classes, Herança, Interfaces, Lambdas, Collections, Exceptions
+2. **Boas Práticas, Padrões e Dados** - Maven/Gradle, Annotations, SOLID, Clean Code, JDBC, Design Patterns
+3. **Spring Boot na Prática** - API REST, Spring Data, Spring Security, OpenFeign
+4. **Projeto Final** - API inteligente com reconhecimento de fala e Spring Boot
 
 ---
 
